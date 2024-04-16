@@ -1,1 +1,49 @@
-
+[   {
+      "name": "ablution",
+      "sub_categories": [
+        {
+          "name": "when starting ablution",
+          "details": [
+            {
+              "arabic": "بِسْمِ اللّهِ",
+              "transliteration": "Bismil-lah",
+              "translation": "In the name of Allah",
+              "reference": "Irwa'ul-Ghalil 1:122"
+            }
+          ]
+        },
+        {
+          "name": "when completing ablution",
+          "details": [
+            {
+              "title": "Upon completing ablution - 1",
+              "arabic": "أَشْهَدُ أَنْ لَا إِلَـهَ إِلاَّ اللّهُ وَحْدَهُ لَا شَريـكَ لَـهُ وَأَشْهَدُ أَنَّ مُحَمَّـداً عَبْـدُهُ وَرَسُـولُـهُ.",
+              "transliteration": "Ashhadu an la ilaha illal-lahu wahdahu la shareeka lah, wa-ashhadu anna Muhammadan AAabduhu warasooluh.",
+              "translation": "I bear witness that none has the right to be worshipped except Allah, alone without partner, and I bear witness that Muhammad is His slave and Messenger.",
+              "reference": "Muslim 1:209"
+            },
+            {
+              "title": "Upon completing ablution - 2",
+              "arabic": "اَللَّهُـمَّ اجْعَلْنِـي مِنَ التَّـوَّابِينَ وَاجْعَـلْنِي مِنَ الْمُتَطَهِّـرِينَ.",
+              "transliteration": "Allahummaj-AAalnee minat-tawwabeena wajAAalnee minal-mutatahhireen.",
+              "translation": "O Allah, make me of those who return to You often in repentance and make me of those who remain clean and pure.",
+              "reference": "At-Tirmidhi 1:78"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "clothes",
+      "sub_categories": []
+    },
+    {
+      "name": "prayer",
+      "sub_categories": []
+    },
+    {
+      "name": "sleep",
+      "sub_categories": [
+      ]
+    }
+  ]
