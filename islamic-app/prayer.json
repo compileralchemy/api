@@ -1331,7 +1331,7 @@
                     },
                     {
                         "prayerName": "Maghrib",
-                        "prayerTime": "18:01"
+                        "prayerTime": "18:10"
                     },
                     {
                         "prayerName": "Esha",
@@ -5179,6 +5179,7 @@
                     {
                         "prayerName": "Lever du Soleil",
                         "prayerTime": "05:46"
+                        
                     },
                     {
                         "prayerName": "Zawal",
